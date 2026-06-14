@@ -118,3 +118,13 @@ metadata:
 type: Opaque
 stringData:
   password: <app-password>
+
+---
+
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mq-web-credentials
+type: Opaque
+stringData:
+  password: <admin-password>
