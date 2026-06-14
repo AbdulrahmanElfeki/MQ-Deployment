@@ -401,8 +401,3 @@ Metrics available at: `https://localhost:9157/metrics`
 - **Official Docs:** https://github.com/ibm-messaging/mq-container
 - **IBM MQ Documentation:** https://www.ibm.com/docs/en/ibm-mq/9.4
 - **Container Image:** quay.io/aelfeki007/ibm-messaging/mq:9.4.5.0-r2
-
----
-
-**Last Updated:** June, 2026  
-**Status:** Active  
